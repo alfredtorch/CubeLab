@@ -11,9 +11,16 @@ Small electronic tools for trouble-less prototyping and debugging!
 ## 🔌 CubeLab:PSU
 
 A portable power supply. Compact solution to delivery energy to your workbench. Possible bluetooth connectivity or [hack](https://github.com/kanflo/opendps) it yourself to wifi capabilities. 
-Model (optional) DPS3005 
+### Technical Overview with 20V USB-C Input
+IO|Ratings|Notes
+---|---|---
+Vinput|20V max|Limited by USB Trigger 
+Voutput|26V max|DPS3005 
+Vusb||
 
-### DPS5005 Specifications
+### [DPS5005](https://amzn.to/33EGl38) Specifications
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/38537119/149657625-68d4345a-e622-45b6-9420-037aef4f8245.png">
+
 Ratings | Values
 --- | ---
 Input Voltage Range | 6-40V DC
@@ -28,21 +35,28 @@ Protection function | Reverse connection protection & Output short circuit prote
 Dimensions |  8 x 4.5 x 4.5 cm; Weight: approx. 115g
 
 ### USB-C Trigger Specifications
-Best performance 20V - Based on IP2721
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/38537119/149657695-b63b65c2-b19b-4a51-aa57-97a51fc559f9.png">
+Best performance 20V - Based on [IP2721](https://datasheet.lcsc.com/szlcsc/2006111335_INJOINIC-IP2721_C603176.pdf)
+
 Ratings | Values
 --- | ---
-Input Voltage Range | 0-30V DC
+Absolute Input Voltage Range | -0.3V-30V DC
 Recommended Input Range | 3V-25V DC
 Output Voltage Range | 0-20V 
 Output Current Range | 0-5A
 Output Power Range | 0-100W
 
-# Technical Overview 
-IO|Ratings|Notes
----|---|---
-Vinput|20V max|Limited by USB Trigger 
-Voutput|26V max|DPS3005 
-Vusb||
+### USB-5V Module Specifications
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/38537119/149657646-2f55ee25-7b02-4467-9c5b-f453020dee8d.png">
+Based on LM2596
+
+Ratings | Values
+--- | ---
+Recommended Input Range | 6-40V DC
+Output Voltage  | 5V 
+Output Current Range | 0-3A
+Output Power Range | 0-15W
+
 
 # 🛒 BoM
 Part Name | Quantity | Price | Supply Link | Notes 
@@ -55,10 +69,11 @@ Banana Plugs
 Electric Glue
 Wood & Plexi 3mm 
 Thread M3
+Wire 
 Screw 
 
 # 🛠 Assembly
-
+* Laser Cut the files
 
 
 
