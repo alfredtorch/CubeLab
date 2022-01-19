@@ -18,6 +18,10 @@ Flexible fixation | Standard Components | Many plug possibilities
 ## 🔌 CubeLab:PSU
 
 A portable power supply. Compact solution to delivery energy to your workbench. Possible bluetooth connectivity or [hack](https://github.com/kanflo/opendps) it yourself to wifi capabilities. 
+<p align="center">
+<img width="444" alt="image" src="https://user-images.githubusercontent.com/38537119/150142559-dfa176cd-baff-4a33-a61c-b6ff8e776c20.png" align="center">
+</p>
+
 ### Technical Overview with 20V USB-C Input
 IO|Ratings|Notes
 ---|---|---
@@ -78,6 +82,8 @@ Wood & Plexi 3mm
 Thread M3
 Wire 
 Screw 
+Screw 4 Pin Terminal
+
 
 # 🛠 Assembly
 * Laser Cut the files
