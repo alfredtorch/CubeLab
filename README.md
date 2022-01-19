@@ -85,6 +85,13 @@ Screw
 Screw 4 Pin Terminal
 
 
+Alternative Wago
+Screw Terminal | Pluggable Terminal
+--- | ---
+<img width="344" alt="image" src="https://user-images.githubusercontent.com/38537119/150144124-4f49fa67-e8c0-44e6-853a-6a6dea6957e4.png"> | <img width="344" alt="image" src="https://user-images.githubusercontent.com/38537119/150144242-79ab81bf-65b5-4a93-aa34-15ac3d86cbd8.png">
+
+
+
 # 🛠 Assembly
 * Laser Cut the files
 
