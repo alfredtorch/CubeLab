@@ -30,7 +30,9 @@ Voutput|26V max|DPS3005
 Vusb||
 
 ### [DPS5005](https://amzn.to/33EGl38) Specifications
+<p align="center">
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/38537119/149657625-68d4345a-e622-45b6-9420-037aef4f8245.png">
+</p>
 
 Ratings | Values
 --- | ---
@@ -46,8 +48,10 @@ Protection function | Reverse connection protection & Output short circuit prote
 Dimensions |  8 x 4.5 x 4.5 cm; Weight: approx. 115g
 
 ### USB-C Trigger Specifications
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/38537119/149657695-b63b65c2-b19b-4a51-aa57-97a51fc559f9.png">
+<p align="center">
+ <img width="300" alt="image" src="https://user-images.githubusercontent.com/38537119/149657695-b63b65c2-b19b-4a51-aa57-97a51fc559f9.png">
 Best performance 20V - Based on [IP2721](https://datasheet.lcsc.com/szlcsc/2006111335_INJOINIC-IP2721_C603176.pdf)
+</p>
 
 Ratings | Values
 --- | ---
@@ -58,8 +62,11 @@ Output Current Range | 0-5A
 Output Power Range | 0-100W
 
 ### USB-5V Module Specifications
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/38537119/149657646-2f55ee25-7b02-4467-9c5b-f453020dee8d.png">
+
+<p align="center">
+  <img width="300" alt="image" src="https://user-images.githubusercontent.com/38537119/149657646-2f55ee25-7b02-4467-9c5b-f453020dee8d.png">
 Based on LM2596
+</p>
 
 Ratings | Values
 --- | ---
