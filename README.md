@@ -83,14 +83,20 @@ Dual USB Converter | 1x | 4€ | [Aliexpress](https://s.click.aliexpress.com/e/_
 2,5 mm Jack Input| 1x | 0,1€ | [Aliexpress](https://s.click.aliexpress.com/e/_AmPKvl) | 5,5x2,1
 Banana Plugs | 1x | 0,1€ | [Aliexpress](https://s.click.aliexpress.com/e/_A6h9jV) | 5,5x2,1
 Thread M3
-Wire 
-Screw 
+
+Screw M3x10mm | 4x |
 Screw 4 Pin Terminal
 
-## Tools and Raw Material
+## 🛠 Tools and 🧱 Raw Material
 Part Name | Quantity | Price | Supply Link | Notes 
-Wood & Plexi 3mm 
+Wood & Plexi 3mm | | | |
+Silicone Wire | | [Aliexpress]https://s.click.aliexpress.com/e/_APnuy7
 Silicon Glue | 1 | 3€ | [Aliexpress](https://s.click.aliexpress.com/e/_ANanVD) | Any strong glue - good results with this one
+Laser Cutter
+Drill Tap M3 | 1x | 3€ | [Aliexpress](https://s.click.aliexpress.com/e/_ADUi5N)
+Solder Iron & Electrical Wire 20-28AWG 
+
+
 
 Alternative Wago
 Screw Terminal | Pluggable Terminal
