@@ -6,14 +6,19 @@ Small electronic tools for trouble-less prototyping and debugging!
 * Modular fixation based on camera tripod screw (endless possibilites with ball head, magnetic or suction cup ...)
 * USB-C powered, so it can run also from a power bank, or ♻️ recycle your old laptop charger...  
 
-
 Flexible fixation | Standard Components | Many plug possibilities
 --- | --- | ----
 <img width="344" alt="image" src="https://user-images.githubusercontent.com/38537119/149670741-7076fe5e-8bbc-4755-86a9-3d7c91b413e8.png"> | <img width="342" alt="image" src="https://user-images.githubusercontent.com/38537119/149670761-4bdf0e61-8876-4396-8914-44c2a105d40a.png"> | <img width="343" alt="image" src="https://user-images.githubusercontent.com/38537119/149670777-4d768808-8813-4bf3-be92-5018438204c5.png">
 
-All CubeLabs shares common parts and design features.
+## 🔩 Assembly Tutorials
 
-🙏 Please if you need to shop for parts, it would be great that you use the supply links below. As they are affilated, you're supporting me directly to continue to deliver new projects to t
+[CubePSU](https://github.com/alfredtorch/RGBFighter/blob/master/CubePSU.md)
+[CubeSignal](https://github.com/alfredtorch/RGBFighter/blob/master/CubeSignal.md)
+[CubeLoad]((https://github.com/alfredtorch/RGBFighter/blob/master/CubeLoad.md)
+
+All CubeLabs shares common parts and design features. Below you find all the needed things to be shure to setup your own CubeLab System.
+
+🙏 Please if you need to shop for parts, it would be great that you use the supply links below. As they are affilated, you're supporting me directly to continue to deliver new projects to the community! Thank you
 
 ## 🛍 Basic Equipement & BoM
 
@@ -21,18 +26,18 @@ All CubeLabs shares common parts and design features.
 Part Name | Quantity | Price | Supply Link | Notes 
 --- | --- | --- | --- | ---
 USB-C Trigger | 1x | 2€ | [Aliexpress](https://s.click.aliexpress.com/e/_ATlhPz) [Amazon](https://amzn.to/33yQBKh) | Different options 5-20V - best 20V
-Dual USB Converter | 1x | 4€ | [Aliexpress](https://s.click.aliexpress.com/e/_AS1GbZ) [Amazon](https://amzn.to/3KiBt4q) | Based on LM2596 DCDC Module 5V@3A
-2,5 mm Jack Input| 1x | 0,1€ | [Aliexpress](https://s.click.aliexpress.com/e/_AmPKvl) | 5,5x2,1 Jack Inside Pin + / Outside Pin -
+Dual USB DCDC | 1x | 4€ | [Aliexpress](https://s.click.aliexpress.com/e/_AS1GbZ) [Amazon](https://amzn.to/3KiBt4q) | Based on LM2596 DCDC Module 5V@3A
+Jack Barrel| 1x | 0,1€ | [Aliexpress](https://s.click.aliexpress.com/e/_AmPKvl) | 5,5x2,1 Jack Inside Pin + / Outside Pin -
 Banana Plugs | 4x | 0,1€ | [Aliexpress](https://s.click.aliexpress.com/e/_ArlLER) | Needs to have flat (nonthreaded) internal connector (short circuit)
-Banana Plugs M5 | 4x | 4€ | [Aliexpress](https://s.click.aliexpress.com/e/_AdILGx) ] Black-Red-Black-Red
-Screw M3x10mm | 4x | [Aliexpress](https://s.click.aliexpress.com/e/_9hzJqX) | Not too long nor to short +- 6mm of traavel
+Banana Plugs M5 | 4x | 4€ | [Aliexpress](https://s.click.aliexpress.com/e/_AdILGx) | Black-Red-Black-Red
+Screw M3 | 4x | 3€ | [Aliexpress](https://s.click.aliexpress.com/e/_9hzJqX) | Not too long nor to short 10mm seems perfectly
 
 ### 🛠 Tools
 Part Name | Quantity | Price | Supply Link | Notes 
 --- | --- | --- | --- | ---
-Laser Cutter | [Maps](https://www.fablabs.io/labs/map) | Easy access to an local Fablab with your dxf files
-Drill Tap M3 | 1x | 3€ | [Aliexpress](https://s.click.aliexpress.com/e/_ADUi5N) | for 2,5mm bore holes in plexi pieces
-Solder Iron | 1x | 45€ | [Aliexpress](https://s.click.aliexpress.com/e/_9799pH) | To solder USB-C 
+Laser Cutter | | |[Maps](https://www.fablabs.io/labs/map) | Easy access to an local Fablab with your dxf files
+Drill Tap M3 | 1x | 3€ | [Aliexpress](https://s.click.aliexpress.com/e/_ADUi5N) | needs 2,5mm bore holes in plexi pieces
+Solder Iron | 1x | 45€ | [Aliexpress](https://s.click.aliexpress.com/e/_9799pH) | To solder USB-C Trigger board, nice solder for happy hacking
 
 ### 🧱 Raw Material
 Part Name | Quantity | Price | Supply Link | Notes 
@@ -49,23 +54,28 @@ USB-C Trigger  | Standard Components | Many plug possibilities
 <p align="center">
  <img width="300" alt="image" src="https://user-images.githubusercontent.com/38537119/149657695-b63b65c2-b19b-4a51-aa57-97a51fc559f9.png">
 Best performance 20V - Based on [IP2721](https://datasheet.lcsc.com/szlcsc/2006111335_INJOINIC-IP2721_C603176.pdf)
-</p> Ratings | Values
---- | ---
+</p> | <p align="center">
+  <img width="300" alt="image" src="https://user-images.githubusercontent.com/38537119/149657646-2f55ee25-7b02-4467-9c5b-f453020dee8d.png">
+Based on LM2596
+</p> | 
+
+Ratings | Values
+
+
 Absolute Input Voltage Range | -0.3V-30V DC
 Recommended Input Range | 3V-25V DC
 Output Voltage Range | 0-20V 
 Output Current Range | 0-5A
 Output Power Range | 0-100W| 
+--- | ---
+
 
 
 
 
 ### USB-5V Module Specifications
 
-<p align="center">
-  <img width="300" alt="image" src="https://user-images.githubusercontent.com/38537119/149657646-2f55ee25-7b02-4467-9c5b-f453020dee8d.png">
-Based on LM2596
-</p>
+
 
 Ratings | Values
 --- | ---
