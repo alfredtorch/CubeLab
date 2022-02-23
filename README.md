@@ -11,6 +11,31 @@ Flexible fixation | Standard Components | Many plug possibilities
 * Modular fixation based on camera tripod screw (endless possibilites with ball head, magnetic or suction cup ...)
 * USB-C powered, so it can run also from a power bank, or ♻️ recycle your old laptop charger...  
 
+# 🛍 Basic Equipement & BoM
+
+## 🛒 BoM
+Part Name | Quantity | Price | Supply Link | Notes 
+--- | --- | --- | --- | ---
+USB-C Trigger | 1x | 2€ | [Aliexpress](https://s.click.aliexpress.com/e/_ATlhPz) [Amazon](https://amzn.to/33yQBKh) | Different options 5-20V - best 20V
+Dual USB Converter | 1x | 4€ | [Aliexpress](https://s.click.aliexpress.com/e/_AS1GbZ) [Amazon](https://amzn.to/3KiBt4q) | Based on LM2596 DCDC Module 5V@3A
+2,5 mm Jack Input| 1x | 0,1€ | [Aliexpress](https://s.click.aliexpress.com/e/_AmPKvl) | 5,5x2,1
+Banana Plugs | 1x | 0,1€ | [Aliexpress](https://s.click.aliexpress.com/e/_A6h9jV) | 5,5x2,1
+Screw M3x10mm | 4x |
+Screw 4 Pin Terminal 
+
+### 🛠 Tools
+Laser Cutter | [Maps](https://www.fablabs.io/labs/map) | Easy access to an local Fablab with your dxf files
+Drill Tap M3 | 1x | 3€ | [Aliexpress](https://s.click.aliexpress.com/e/_ADUi5N) | for 2,5mm bore holes in plexi pieces
+Solder Iron | 1x | 45€ | [Aliexpress](https://s.click.aliexpress.com/e/_9799pH) | To solder USB-C 
+
+### 🧱 Raw Material
+Part Name | Quantity | Price | Supply Link | Notes 
+--- | --- | --- | --- | ---
+Heat Shrinking | 1x | 1,5€ | [Aliexpress](https://s.click.aliexpress.com/e/_9Hk3YT) | To avoid short circuit (mainly on banana plugs)
+Wire Block Clamp | 1x | 13€ | [Aliexpress](https://s.click.aliexpress.com/e/_AYUJzl) | Optional if you want to avoid soldering
+Silicon Glue | 1 | 3€ | [Aliexpress](https://s.click.aliexpress.com/e/_ANanVD) | Any strong glue - good results with this one
+Silicone Wire 20-28AWG| 1x | [Aliexpress](https://s.click.aliexpress.com/e/_APnuy7) | Smooth flexible wire to hassle-free assembly
+Wood & Plexi 3mm | less 1m2| Source from your local hardware store
 
 ## 🔌 CubeLab:PSU
 
@@ -92,8 +117,8 @@ Part Name | Quantity | Price | Supply Link | Notes
 Wood & Plexi 3mm | | | |
 Silicone Wire | | [Aliexpress]https://s.click.aliexpress.com/e/_APnuy7
 Silicon Glue | 1 | 3€ | [Aliexpress](https://s.click.aliexpress.com/e/_ANanVD) | Any strong glue - good results with this one
-Laser Cutter
-Drill Tap M3 | 1x | 3€ | [Aliexpress](https://s.click.aliexpress.com/e/_ADUi5N)
+Laser Cutter | Easy acess with a local Fablab
+Drill Tap M3 | 1x | 3€ | [Aliexpress](https://s.click.aliexpress.com/e/_ADUi5N) 
 Solder Iron & Electrical Wire 20-28AWG 
 
 
