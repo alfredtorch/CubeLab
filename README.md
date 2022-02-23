@@ -37,20 +37,6 @@ Silicon Glue | 1 | 3€ | [Aliexpress](https://s.click.aliexpress.com/e/_ANanVD)
 Silicone Wire 20-28AWG| 1x | [Aliexpress](https://s.click.aliexpress.com/e/_APnuy7) | Smooth flexible wire to hassle-free assembly
 Wood & Plexi 3mm | less 1m2| Source from your local hardware store
 
-## 🔌 CubeLab:PSU
-
-A portable power supply. Compact solution to delivery energy to your workbench. Possible bluetooth connectivity or [hack](https://github.com/kanflo/opendps) it yourself to wifi capabilities. 
-<p align="center">
-<img width="444" alt="image" src="https://user-images.githubusercontent.com/38537119/150142559-dfa176cd-baff-4a33-a61c-b6ff8e776c20.png" align="center">
-</p>
-
-### Technical Overview with 20V USB-C Input
-IO|Ratings|Notes
----|---|---
-Vinput|20V max|Limited by USB Trigger 
-Voutput|26V max|DPS3005 
-Vusb||
-
 ### USB-C Trigger Specifications
 <p align="center">
  <img width="300" alt="image" src="https://user-images.githubusercontent.com/38537119/149657695-b63b65c2-b19b-4a51-aa57-97a51fc559f9.png">
