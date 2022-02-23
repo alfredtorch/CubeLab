@@ -1,3 +1,19 @@
+
+## 🔌 CubeLab:PSU
+
+A portable power supply. Compact solution to delivery energy to your workbench. Possible bluetooth connectivity or [hack](https://github.com/kanflo/opendps) it yourself to wifi capabilities. 
+<p align="center">
+<img width="444" alt="image" src="https://user-images.githubusercontent.com/38537119/150142559-dfa176cd-baff-4a33-a61c-b6ff8e776c20.png" align="center">
+</p>
+
+### Technical Overview with 20V USB-C Input
+IO|Ratings|Notes
+---|---|---
+Vinput|20V max|Limited by USB Trigger 
+Voutput|26V max|DPS3005 
+Vusb||
+
+
 ### [DPS5005](https://amzn.to/33EGl38) Specifications
 <p align="center">
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/38537119/149657625-68d4345a-e622-45b6-9420-037aef4f8245.png">
