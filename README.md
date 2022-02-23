@@ -12,11 +12,11 @@ Flexible fixation | Standard Components | Many plug possibilities
 
 ## 🔩 Assembly Tutorials
 
-[CubePSU](https://github.com/alfredtorch/RGBFighter/blob/master/CubePSU.md)
-[CubeSignal](https://github.com/alfredtorch/RGBFighter/blob/master/CubeSignal.md)
-[CubeLoad]((https://github.com/alfredtorch/RGBFighter/blob/master/CubeLoad.md)
+[🔌 CubePSU](https://github.com/alfredtorch/RGBFighter/blob/master/CubePSU.md)
+[📈 CubeSignal](https://github.com/alfredtorch/RGBFighter/blob/master/CubeSignal.md)
+[⚡️ CubeLoad](https://github.com/alfredtorch/RGBFighter/blob/master/CubeLoad.md)
 
-All CubeLabs shares common parts and design features. Below you find all the needed things to be shure to setup your own CubeLab System.
+All CubeLabs shares common parts and design features. Below you can find all the needed things to be shure to setup your own CubeLab System.
 
 🙏 Please if you need to shop for parts, it would be great that you use the supply links below. As they are affilated, you're supporting me directly to continue to deliver new projects to the community! Thank you
 
@@ -49,15 +49,13 @@ Silicone Wire 20-28AWG| 1x | [Aliexpress](https://s.click.aliexpress.com/e/_APnu
 Wood & Plexi 3mm | less 1m2| 20€ | Source from your local hardware store
 
 ### 🧾 Specifications 
-USB-C Trigger  | Standard Components | Many plug possibilities
---- | --- | ----
-<p align="center">
- <img width="300" alt="image" src="https://user-images.githubusercontent.com/38537119/149657695-b63b65c2-b19b-4a51-aa57-97a51fc559f9.png">
-Best performance 20V - Based on [IP2721](https://datasheet.lcsc.com/szlcsc/2006111335_INJOINIC-IP2721_C603176.pdf)
-</p> | <p align="center">
-  <img width="300" alt="image" src="https://user-images.githubusercontent.com/38537119/149657646-2f55ee25-7b02-4467-9c5b-f453020dee8d.png">
-Based on LM2596
-</p> | 
+USB-C Trigger  | USB DCDC Converter | 
+--- | ---
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/38537119/149657695-b63b65c2-b19b-4a51-aa57-97a51fc559f9.png">| 
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/38537119/149657646-2f55ee25-7b02-4467-9c5b-f453020dee8d.png"> ]
+ 
+est performance 20V - Based on [IP2721](https://datasheet.lcsc.com/szlcsc/2006111335_INJOINIC-IP2721_C603176.pdf)
+Based on LM2596 | 
 
 Ratings | Values
 
