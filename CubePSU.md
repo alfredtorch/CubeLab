@@ -2,26 +2,26 @@
 
 # CubeLab
 Small electronic tools for trouble-less prototyping and debugging!
+* 2x USB 5V-3A output for light sticks, power your arduino or charge your phone 
+* Modular fixation based on camera tripod screw (endless possibilites with ball head, magnetic or suction cup ...)
+* USB-C powered, so it can run also from a power bank, or ♻️ recycle your old laptop charger...  
+
 
 Flexible fixation | Standard Components | Many plug possibilities
 --- | --- | ----
 <img width="344" alt="image" src="https://user-images.githubusercontent.com/38537119/149670741-7076fe5e-8bbc-4755-86a9-3d7c91b413e8.png"> | <img width="342" alt="image" src="https://user-images.githubusercontent.com/38537119/149670761-4bdf0e61-8876-4396-8914-44c2a105d40a.png"> | <img width="343" alt="image" src="https://user-images.githubusercontent.com/38537119/149670777-4d768808-8813-4bf3-be92-5018438204c5.png">
 
-* 2x USB 5V-3A output for light sticks, power your arduino or charge your phone 
-* Modular fixation based on camera tripod screw (endless possibilites with ball head, magnetic or suction cup ...)
-* USB-C powered, so it can run also from a power bank, or ♻️ recycle your old laptop charger...  
 
 # 🛍 Basic Equipement & BoM
 
-## 🛒 BoM
+### 🛒 BoM
 Part Name | Quantity | Price | Supply Link | Notes 
 --- | --- | --- | --- | ---
 USB-C Trigger | 1x | 2€ | [Aliexpress](https://s.click.aliexpress.com/e/_ATlhPz) [Amazon](https://amzn.to/33yQBKh) | Different options 5-20V - best 20V
 Dual USB Converter | 1x | 4€ | [Aliexpress](https://s.click.aliexpress.com/e/_AS1GbZ) [Amazon](https://amzn.to/3KiBt4q) | Based on LM2596 DCDC Module 5V@3A
 2,5 mm Jack Input| 1x | 0,1€ | [Aliexpress](https://s.click.aliexpress.com/e/_AmPKvl) | 5,5x2,1
-Banana Plugs | 1x | 0,1€ | [Aliexpress](https://s.click.aliexpress.com/e/_A6h9jV) | 5,5x2,1
-Screw M3x10mm | 4x |
-Screw 4 Pin Terminal 
+Banana Plugs | 1x | 0,1€ | [Aliexpress](https://s.click.aliexpress.com/e/_A6h9jV) | Needs to have flat (nonthreaded) internal connector (short circuit)
+Screw M3x10mm | 4x | [Aliexpress](https://s.click.aliexpress.com/e/_9hzJqX) |
 
 ### 🛠 Tools
 Laser Cutter | [Maps](https://www.fablabs.io/labs/map) | Easy access to an local Fablab with your dxf files
