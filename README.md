@@ -11,6 +11,9 @@ Flexible fixation | Standard Components | Many plug possibilities
 --- | --- | ----
 <img width="344" alt="image" src="https://user-images.githubusercontent.com/38537119/149670741-7076fe5e-8bbc-4755-86a9-3d7c91b413e8.png"> | <img width="342" alt="image" src="https://user-images.githubusercontent.com/38537119/149670761-4bdf0e61-8876-4396-8914-44c2a105d40a.png"> | <img width="343" alt="image" src="https://user-images.githubusercontent.com/38537119/149670777-4d768808-8813-4bf3-be92-5018438204c5.png">
 
+All CubeLabs shares common parts and design features.
+
+🙏 Please if need to shop for parts, it would be great that you use my supply links. As they are affilated, you're supporting me to continue to deliver new projects to the community 🙏
 
 # 🛍 Basic Equipement & BoM
 
