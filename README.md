@@ -120,5 +120,6 @@ Screw Terminal | Pluggable Terminal
 
 
 # License & Disclaimer
+https://creativecommons.org/licenses/by-sa/3.0/
 
 Affiliates partner links on Amazon
