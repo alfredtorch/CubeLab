@@ -1,22 +1,17 @@
 ![OverViewPSULoadSignal](https://user-images.githubusercontent.com/38537119/149653142-db223177-ef2d-45b5-9a63-e9331920b4f2.jpg)
 
-**Small electronic tools** for your workbench to trouble-less prototyping and debugging!
-3 different models:
+**Small electronic tools** for your workbench to trouble-less prototyping and debugging!  </br>
+Right now, it exists in 3 different models:
 * 🔌 CubePSU
 * 📈 CubeSignal
 * ⚡️ CubeLoad
-
-## Features
-* 2x USB 5V-3A output for light sticks, power your arduino or charge your phone 
-* Modular fixation based on camera tripod screw (endless possibilites with ball head, magnetic or suction cup ...)
-* USB-C powered, so it can run also from a power bank, or ♻️ recycle your old laptop charger...  
 
 # 💊 Features 
 __🛒 Easy to source__ : COTS-Principle for cost-efficient creating and repairing</br>
 __♻️ Reuse__ : give a second life to your cables and chargers</br>
 __🧩 Size__ : small and handy</br>
-__💪🏽 Capable__ : many plug possibilites, many functionalities</br>
-__🕶 Flexible__ : runs from a power bank, car battery, wall adaptor</br>
+__💪🏽 Capable__ : 2x USB 5V-3A output for powering your arduino, charging your phone, many functionalities</br>
+__🕶 Flexible__ : USB-C powered, it runs from a power bank, car battery, wall adaptor</br>
 __🪛 DIY Friendly__ : design files & tutorials available</br>
 
 Fixation |  Components | Connectiviry
