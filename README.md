@@ -135,3 +135,6 @@ Screw Terminal | Pluggable Terminal
 https://creativecommons.org/licenses/by-sa/3.0/
 
 Affiliates partner links on Amazon
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l155kjllnym0i1flf3bl" alt="trackgit-views" />
+</a>
