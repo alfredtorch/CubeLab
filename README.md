@@ -18,7 +18,9 @@ Fixation |  Components | Connectiviry
 --- | --- | ----
 <img width="344" alt="image" src="https://user-images.githubusercontent.com/38537119/149670741-7076fe5e-8bbc-4755-86a9-3d7c91b413e8.png"> | <img width="342" alt="image" src="https://user-images.githubusercontent.com/38537119/149670761-4bdf0e61-8876-4396-8914-44c2a105d40a.png"> | <img width="343" alt="image" src="https://user-images.githubusercontent.com/38537119/149670777-4d768808-8813-4bf3-be92-5018438204c5.png">
 
-## 🔩 Assembly Tutorials
+# 🔩 Assembly Tutorials
+
+Not yet published!
 
 [🔌 CubePSU](https://github.com/alfredtorch/RGBFighter/blob/master/CubePSU.md)
 [📈 CubeSignal](https://github.com/alfredtorch/RGBFighter/blob/master/CubeSignal.md)
@@ -26,7 +28,7 @@ Fixation |  Components | Connectiviry
 
 All CubeLabs shares common parts and design features. Below you can find all the needed things to be shure to build your own CubeLab setup.
 
-🙏 Please if you need to shop for parts, it would be great that you use the supply links below. As they are affilated, you're supporting me directly to continue to deliver new projects to the community! Thank you
+🙏 Please if you need to shop for parts, it would be great that you use the supply links below. As they are affilated, you're supporting me directly to continue to deliver new projects! Thank you
 
 ## 🛍 Basic Equipement & BoM
 
