@@ -1,12 +1,25 @@
 ![OverViewPSULoadSignal](https://user-images.githubusercontent.com/38537119/149653142-db223177-ef2d-45b5-9a63-e9331920b4f2.jpg)
 
-# CubeLab
-Small electronic tools for trouble-less prototyping and debugging!
+**Small electronic tools** for your workbench to trouble-less prototyping and debugging!
+3 different models:
+* 🔌 CubePSU
+* 📈 CubeSignal
+* ⚡️ CubeLoad
+
+## Features
 * 2x USB 5V-3A output for light sticks, power your arduino or charge your phone 
 * Modular fixation based on camera tripod screw (endless possibilites with ball head, magnetic or suction cup ...)
 * USB-C powered, so it can run also from a power bank, or ♻️ recycle your old laptop charger...  
 
-Flexible fixation | Standard Components | Many plug possibilities
+# 💊 Features 
+__🛒 Easy to source__ : COTS-Principle for cost-efficient creating and repairing</br>
+__♻️ Reuse__ : give a second life to your cables and chargers</br>
+__🧩 Size__ : small and handy</br>
+__💪🏽 Capable__ : many plug possibilites, many functionalities</br>
+__🕶 Flexible__ : runs from a power bank, car battery, wall adaptor</br>
+__🪛 DIY Friendly__ : design files & tutorials available</br>
+
+Fixation |  Components | Connectiviry
 --- | --- | ----
 <img width="344" alt="image" src="https://user-images.githubusercontent.com/38537119/149670741-7076fe5e-8bbc-4755-86a9-3d7c91b413e8.png"> | <img width="342" alt="image" src="https://user-images.githubusercontent.com/38537119/149670761-4bdf0e61-8876-4396-8914-44c2a105d40a.png"> | <img width="343" alt="image" src="https://user-images.githubusercontent.com/38537119/149670777-4d768808-8813-4bf3-be92-5018438204c5.png">
 
@@ -16,7 +29,7 @@ Flexible fixation | Standard Components | Many plug possibilities
 [📈 CubeSignal](https://github.com/alfredtorch/RGBFighter/blob/master/CubeSignal.md)
 [⚡️ CubeLoad](https://github.com/alfredtorch/RGBFighter/blob/master/CubeLoad.md)
 
-All CubeLabs shares common parts and design features. Below you can find all the needed things to be shure to setup your own CubeLab System.
+All CubeLabs shares common parts and design features. Below you can find all the needed things to be shure to build your own CubeLab setup.
 
 🙏 Please if you need to shop for parts, it would be great that you use the supply links below. As they are affilated, you're supporting me directly to continue to deliver new projects to the community! Thank you
 
@@ -52,9 +65,8 @@ Wood & Plexi 3mm | less 1m2| 20€ | Source from your local hardware store
 USB-C Trigger  | USB DCDC Converter | 
 --- | ---
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/38537119/149657695-b63b65c2-b19b-4a51-aa57-97a51fc559f9.png">| 
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/38537119/149657646-2f55ee25-7b02-4467-9c5b-f453020dee8d.png"> ]
- 
-est performance 20V - Based on [IP2721](https://datasheet.lcsc.com/szlcsc/2006111335_INJOINIC-IP2721_C603176.pdf)
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/38537119/149657646-2f55ee25-7b02-4467-9c5b-f453020dee8d.png">|
+Best performance 20V - Based on [IP2721](https://datasheet.lcsc.com/szlcsc/2006111335_INJOINIC-IP2721_C603176.pdf)
 Based on LM2596 | 
 
 Ratings | Values
